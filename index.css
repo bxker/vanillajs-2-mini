@@ -39,7 +39,7 @@ li[aria-checked="true"] {
   color: gray;
   text-decoration: line-through;
   list-style-image: url("./img/check-square-regular.svg");
-}
+} 
 
 #completed-message {
   visibility: hidden;
